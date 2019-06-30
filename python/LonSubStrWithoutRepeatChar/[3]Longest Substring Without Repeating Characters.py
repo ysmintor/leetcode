@@ -41,9 +41,9 @@ class Solution:
                 max_so_far = max(max_so_far, curr_max)
                 #curr_max = index - dct[i]
                 curr_max = index - dct[i]
-                start = dct[i] + 1# select the nearest one that not repet at start element
+                start = dct[i] + 1 # select the nearest one that not repeat at start element
             else:
                 curr_max += 1
-            dct[i] = index # store the repet next position
+            dct[i] = index # store the coordinated position for value i
 
         return max(max_so_far, curr_max)
