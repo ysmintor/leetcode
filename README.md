@@ -5,6 +5,7 @@ LeetCode Algorithm
 
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
+| 104 | Maximum Depth of Binary Tree | [python](./python/MaximumDepthofBinaryTree/[104]MaxDepth.py) | Easy |
 | 102 | Binary Tree Level Order Traversal | [python](./python/BinaryTreeLevelOrderTraversal/[102]level%20order.py) | Medium | 
 | 101 | Symmetric Tree | [python](./python/SymmetricTree/[101]symmetric%20tree.py) | Easy  | 
 | 100 | Same Tree | [python](./python/SameTree/[100]Same%20Tree.py) | Easy | 
