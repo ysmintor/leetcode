@@ -220,3 +220,6 @@ fabric.properties
 java/java.iml
 python/python.iml
 .idea/leetcdoe.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
