@@ -5,7 +5,8 @@ LeetCode Algorithm
 
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
-| 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium| 
+| 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | [python](./python/ConstructBinaryTreefromPreorderandInorderTraversal/buildTree.py) | Medium |
 | 104 | Maximum Depth of Binary Tree | [python](./python/MaximumDepthofBinaryTree/[104]MaxDepth.py) | Easy |
 | 102 | Binary Tree Level Order Traversal | [python](./python/BinaryTreeLevelOrderTraversal/[102]level%20order.py) | Medium | 
 | 101 | Symmetric Tree | [python](./python/SymmetricTree/[101]symmetric%20tree.py) | Easy  | 
