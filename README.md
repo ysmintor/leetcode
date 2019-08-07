@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 114 | Flatten Binary Tree to Linked List | [python](./python/FlattenBinaryTreetoLinkedList/[114]flatten.py) | Medium |
 | 113 | Path Sum II | [python](./python/PathSumII/[113]pathSum.py) | Medium |
 | 112 | Path Sum | [python](./python/PathSum/[112]hasPathSum.py) | Easy |
 | 111 | Minimum Depth of Binary Tree | [python](./python/MinimumDepthofBinaryTree/[111]minDepth.py) | Easy |
