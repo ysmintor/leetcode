@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 125 | Valid Palindrome | [python](./python/ValidPalindrome/[125]isPalindrome.py) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [python](./python/BestTimetoBuyandSellStockII/[122]maxProfit.py) | Easy |
 | 121 | Best Time to Buy and Sell Stock | [python](./python/BestTimetoBuyandSellStock/[121]maxProfit.py) | Easy |
 | 120 | Triangle | [python](./python/Triangle/[120]minimumTotal.py) | Medium |
