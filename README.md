@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 120 | Triangle | [python](./python/Triangle/[120]minimumTotal.py) | Medium |
 | 119 | Pascal's Triangle II | [python](./python/Pascal'sTriangleII/[119]getRow.py) | Easy |
 | 118 | Pascal's Triangle | [python](./python/Pascal'sTriangle/[118]generate.py) | Easy |
 | 114 | Flatten Binary Tree to Linked List | [python](./python/FlattenBinaryTreetoLinkedList/[114]flatten.py) | Medium |
