@@ -6,8 +6,8 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
-| 142 | Linked List Cycle II | [python](./python/LinkedListCycleII/[142]detectCycle.py)
-| 141 | Linked List Cycle | [python](./python/LinkedListCycle/[141]hasCycle.py)
+| 142 | Linked List Cycle II | [python](./python/LinkedListCycleII/[142]detectCycle.py) | Medium |
+| 141 | Linked List Cycle | [python](./python/LinkedListCycle/[141]hasCycle.py) | Easy |
 | 136 | Single Number | [python](./python/SingleNumber/[136]singleNumber.py) | Easy |
 | 125 | Valid Palindrome | [python](./python/ValidPalindrome/[125]isPalindrome.py) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [python](./python/BestTimetoBuyandSellStockII/[122]maxProfit.py) | Easy |
