@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 155 | Min Stack | [python](./python/155.min-stack/min-stack.py) | Easy |
 | 142 | Linked List Cycle II | [python](./python/LinkedListCycleII/[142]detectCycle.py) | Medium |
 | 141 | Linked List Cycle | [python](./python/LinkedListCycle/[141]hasCycle.py) | Easy |
 | 136 | Single Number | [python](./python/SingleNumber/[136]singleNumber.py) | Easy |
