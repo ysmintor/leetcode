@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 160 | Intersection of Two Linked Lists | [python](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 157 | Read N Characters Given Read4 | [python](./python/157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
 | 155 | Min Stack | [python](./python/155.min-stack/min-stack.py) | Easy |
 | 142 | Linked List Cycle II | [python](./python/LinkedListCycleII/[142]detectCycle.py) | Medium |
