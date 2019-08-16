@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 169 | Majority Element | [python](./169.majority-element/majority-element.py) | Easy |
 | 167 | Two Sum II - Input array is sorted | [python](./167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) | Easy |
 | 160 | Intersection of Two Linked Lists | [python](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 157 | Read N Characters Given Read4 | [python](./python/157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
