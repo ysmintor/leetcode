@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 172 | Factorial Trailing Zeroes | [python](./python/172.factorial-trailing-zeroes/factorial-trailing-zeroes.py) | Easy |
 | 171 | Excel Sheet Column Number | [python](./python/171.excel-sheet-column-number/excel-sheet-column-number.py) | Easy |
 | 170 | Two Sum III - Data structure design | [python](./python/170.two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.py) | Easy |
 | 169 | Majority Element | [python](./169.majority-element/majority-element.py) | Easy |
