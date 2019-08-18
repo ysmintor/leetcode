@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 176 | Second Highest Salary | [sql](./sql/176.second-highest-salary/second-highest-salary.sql) | Easy |
 | 175 | Combine Two Tables | [sql](./sql/175.combine-two-tables/combine-two-tables.sql) | Easy |
 | 173 | Binary Search Tree Iterator | [python](./python173.binary-search-tree-iterator/binary-search-tree-iterator.py) | Medium |
 | 172 | Factorial Trailing Zeroes | [python](./python/172.factorial-trailing-zeroes/factorial-trailing-zeroes.py) | Easy |
