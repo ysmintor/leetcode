@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 175 | Combine Two Tables | [sql](./sql/175.combine-two-tables/combine-two-tables.sql) | Easy |
 | 173 | Binary Search Tree Iterator | [python](./python173.binary-search-tree-iterator/binary-search-tree-iterator.py) | Medium |
 | 172 | Factorial Trailing Zeroes | [python](./python/172.factorial-trailing-zeroes/factorial-trailing-zeroes.py) | Easy |
 | 171 | Excel Sheet Column Number | [python](./python/171.excel-sheet-column-number/excel-sheet-column-number.py) | Easy |
