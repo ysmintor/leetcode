@@ -8,6 +8,7 @@ LeetCode Algorithm
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
 | 217 | Contains Duplicate | [python](./python/217.contains-duplicate/contains-duplicate.py) | Easy |
 | 206 | Reverse Linked List| [python](./python/206.reverse-linked-list/reverse-linked-list.py) | Easy |
+| 205 | Isomorphic Strings | [python](./python/205.isomorphic-strings/isomorphic-strings.py) | Easy |
 | 204 | Count Primes | [python](./python/204.count-primes/count-primes.py) | Easy |
 | 203 | Remove Linked List Elements | [python](./python/203.remove-linked-list-elements/remove-linked-list-elements.py) | Easy |
 | 202 | Happy Number | [python](./python/202.happy-number/happy-number.py) | Easy |
