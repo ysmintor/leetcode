@@ -8,6 +8,7 @@ LeetCode Algorithm
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
 | 217 | Contains Duplicate | [python](./python/217.contains-duplicate/contains-duplicate.py) | Easy |
 | 206 | Reverse Linked List| [python](./python/206.reverse-linked-list/reverse-linked-list.py) | Easy |
+| 202 | Happy Number | [python](./python/202.happy-number/happy-number.py) | Easy |
 | 198 | House Robber  | [python](./python/198.house-robber/house-robber.py) | Easy |
 | 176 | Second Highest Salary | [sql](./sql/176.second-highest-salary/second-highest-salary.sql) | Easy |
 | 175 | Combine Two Tables | [sql](./sql/175.combine-two-tables/combine-two-tables.sql) | Easy |
