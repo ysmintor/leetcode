@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 226 | Invert Binary Tree | [python](./python/invert-binary-tree/invert-binary-tree.py) | Easy |
 | 225 | Implement Stack using Queues | [python](./python/225.implement-stack-using-queues/implement-stack-using-queues.py) | Easy |
 | 219 | Contains Duplicate II| [python](./python/219.contains-duplicate-ii/contains-duplicate-ii.py) | Easy |
 | 217 | Contains Duplicate | [python](./python/217.contains-duplicate/contains-duplicate.py) | Easy |
