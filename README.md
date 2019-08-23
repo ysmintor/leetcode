@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 219 | Contains Duplicate II| [python](./python/219.contains-duplicate-ii/contains-duplicate-ii.py) | Easy |
 | 217 | Contains Duplicate | [python](./python/217.contains-duplicate/contains-duplicate.py) | Easy |
 | 206 | Reverse Linked List| [python](./python/206.reverse-linked-list/reverse-linked-list.py) | Easy |
 | 205 | Isomorphic Strings | [python](./python/205.isomorphic-strings/isomorphic-strings.py) | Easy |
