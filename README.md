@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 231 | Power of Two | [python](./python/231.power-of-two/power-of-two.py) | Easy |
 | 230 | Kth Smallest Element in a BST | [python](./python/230.kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.py) | Medium |
 | 226 | Invert Binary Tree | [python](./python/invert-binary-tree/invert-binary-tree.py) | Easy |
 | 225 | Implement Stack using Queues | [python](./python/225.implement-stack-using-queues/implement-stack-using-queues.py) | Easy |
