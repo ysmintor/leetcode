@@ -6,6 +6,7 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 236 | Lowest Common Ancestor of a Binary Tree | [python](./python/236.lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py) | Medium |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [python](./python/235.lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) | Easy |
 | 234 | Palindrome Linked List | [python](./python/234.palindrome-linked-list/palindrome-linked-list.py) | Easy |
 | 231 | Power of Two | [python](./python/231.power-of-two/power-of-two.py) | Easy |
