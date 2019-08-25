@@ -6,6 +6,8 @@ LeetCode Algorithm
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
 | 583 | Delete Operation for Two Strings | [python](./python/DeleteOperationforTwoStrings/[583]minDistance.py) | Medium | 
+| 244 | Shortest Word Distance II | [python](./python/244.shortest-word-distance-ii/shortest-word-distance-ii.py) | Medium | 
+| 243 | Shortest Word Distance I | [python](./python/243.shortest-word-distance/shortest-word-distance.py) | Easy |
 | 242 | Valid Anagram | [python](./python/242.valid-anagram/valid-anagram.py) | Easy |
 | 237 | Delete Node in a Linked List | [python](./python/237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) | Easy |
 | 236 | Lowest Common Ancestor of a Binary Tree | [python](./python/236.lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py) | Medium |
