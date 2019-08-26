@@ -37,6 +37,7 @@ LeetCode Algorithm
 | 160 | Intersection of Two Linked Lists | [python](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 157 | Read N Characters Given Read4 | [python](./python/157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
 | 155 | Min Stack | [python](./python/155.min-stack/min-stack.py) | Easy |
+| 146 | LRU Cache | [python](./python/146.lru-cache/lru-cache.py) | Medium |
 | 142 | Linked List Cycle II | [python](./python/LinkedListCycleII/[142]detectCycle.py) | Medium |
 | 141 | Linked List Cycle | [python](./python/LinkedListCycle/[141]hasCycle.py) | Easy |
 | 138 | Copy List with Random Pointer | [python](./python/138.copy-list-with-random-pointer/copy-list-with-random-pointer.py) | Medium |

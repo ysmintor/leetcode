@@ -1,14 +1,5 @@
-class Solution:
-    def __init__(self, words):
-        """
-        initialize your data structure here.
-        :type words: List[str]
-        """
-        self.d = {}
-        for i in range(0, len(words)):
-            self.d[words[i]] = self.d.get(words[i], []) + [i]
-
-    def shortest(self, word1, word2):
+class Solution(object):
+    def shortestWordDistance(self, words, word1, word2):
         """
         :type words: List[str]
         :type word1: str
@@ -31,8 +22,10 @@ class Solution:
         return ans
 
 words = ["practice", "makes", "perfect", "coding", "makes"]
-wordDistance = Solution(words)
-dws1 = wordDistance.shortest("practice", "coding")
+wordDistance = Solution()
+dws1 = wordDistance.shortestWordDistance(words, "practice", "coding")
 print("dws1=", dws1)
-dws2=wordDistance.shortest("practice", "makes")
+dws2=wordDistance.shortestWordDistance(words, "practice", "makes")
+print("dws2=", dws2)
+dws2=wordDistance.shortestWordDistance(words, "makes", "makes")
 print("dws2=", dws2)
