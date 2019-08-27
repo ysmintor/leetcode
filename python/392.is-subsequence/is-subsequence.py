@@ -1,6 +1,7 @@
 class Solution:
     # 针对 follow up 方面，大量求是否是子序列的情况会好很多，关键在于理解 idx 和 start 方面的关系
     # start = d[c][idx]+1总会是越来越大的，在二叉查找时会变小，但后面又通过 d 中对应 index 求值，因此又会变大
+    # 想不明白可以用 s=aada t=bbaddaddacc 来模拟这个过程，演算一遍应该是可以理解
     def isSubsequence(self, s: str, t: str) -> bool:
         d = collections.defaultdict(list)
         for i, c in enumerate(t):
