@@ -68,9 +68,10 @@ LeetCode Algorithm
 | 0100 | Same Tree | [python](./python/SameTree/[100]Same%20Tree.py) | Easy | 
 | 0092 | Reverse Linked List II | [python](./python/092.reverse-linked-list-ii/reverse-linked-list-ii.py) | Medium |
 | 0070 | Climbing Stairs | [python](./python/0070.climbing-stairs/climbing-stairs.py) | Easy |
+| 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
 | 0005 | Longest Palindromic Substring | [python](./python/LongestPalindromicSubstring/[5]Longest%20Palindromic%20Substring.py) | Medium | 
 | 0004 | Median of Two Sorted Arrays | [python](./python/MedianofTwoSortedArrays/[4]Median%20of%20Two%20Sorted%20Arrays.py) | Hard | 
 | 0003 | Longest Substring Without Repeating Characters | [python](./python/[3]LonSubStrWithoutRepeatChar/[3]Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium |
 | 0002 | Add Tow Number| [python](./python/AddTwoNumber/[2]Add%20Two%20Numbers.py) | Medium |
-| 0001 | Two Sum | [python](./python/TwoSum/[1]Two%20Sum.py) | Easy |
+| 0001 | Two Sum | [python](./python/0001.two-sum/two-sum.py) | Easy |
