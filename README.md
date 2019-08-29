@@ -5,7 +5,8 @@ LeetCode Algorithm
 
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
-| 0583 | Delete Operation for Two Strings | [python](./python/0583.delete-operation-for-two-strings/delete-operation-for-two-strings.py) | Medium | 
+|| c  d  d
+ 0583 | Delete Operation for Two Strings | [python](./python/0583.delete-operation-for-two-strings/delete-operation-for-two-strings.py) | Medium | 
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
 | 0257 | Binary Tree Paths | [python](./pthon/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
 | 0245 | Shortest Word Distance III | [python](./python/0245.shortest-word-distance-iii/shortest-word-distance-iii.py) | Medium |
@@ -43,6 +44,7 @@ LeetCode Algorithm
 | 0146 | LRU Cache | [python](./python/0146.lru-cache/lru-cache.py) | Medium |
 | 0142 | Linked List Cycle II | [python](./python/0142.linked-list-cycle-ii/linked-list-cycle-ii.py) | Medium |
 | 0141 | Linked List Cycle | [python](./python/0141.linked-list-cycle/linked-list-cycle.py) | Easy |
+| 0139 | Word Break | [python](./python/0139.word-break/word-break.py) | Medium |
 | 0138 | Copy List with Random Pointer | [python](./python/0138.copy-list-with-random-pointer/copy-list-with-random-pointer.py) | Medium |
 | 0136 | Single Number | [python](./python/0136.single-number/single-number.py) | Easy |
 | 0125 | Valid Palindrome | [python](./python/0125.valid-palindrome/valid-palindrome.py) | Easy |
