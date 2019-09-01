@@ -5,6 +5,7 @@ LeetCode Algorithm
 
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
+| 0764 | Min Cost Climbing Stairs | [python](./python/0764.min-cost-climbing-stairs/min-cost-climbing-stairs.py) | Easy |
 | 0583 | Delete Operation for Two Strings | [python](./python/0583.delete-operation-for-two-strings/delete-operation-for-two-strings.py) | Medium | 
 | 0551 | Student Attendance Record I | [python](./python/0551.student-attendance-record-i/student-attendance-record-i.py) | Easy |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
