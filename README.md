@@ -70,6 +70,7 @@ LeetCode Algorithm
 | 0102 | Binary Tree Level Order Traversal | [python](./python/0102.binary-tree-level-order-traversal/binary-tree-level-order-traversal.py) | Medium | 
 | 0101 | Symmetric Tree | [python](./python/0101.symmetric-tree/symmetric-tree.py) | Easy  | 
 | 0100 | Same Tree | [python](./python/0100.same-tree/same-tree.py) | Easy | 
+| 0096 | Unique Binary Search Trees | [python](./python/0096.unique-binary-search-trees/unique-binary-search-trees.py) | Medium |
 | 0092 | Reverse Linked List II | [python](./python/092.reverse-linked-list-ii/reverse-linked-list-ii.py) | Medium |
 | 0070 | Climbing Stairs | [python](./python/0070.climbing-stairs/climbing-stairs.py) | Easy |
 | 0066 | Plus One | [python](./python/0066.plus-one/plus-one.py) | Easy |
