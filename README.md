@@ -31,14 +31,14 @@ LeetCode Algorithm
 | 0203 | Remove Linked List Elements | [python](./python/0203.remove-linked-list-elements/remove-linked-list-elements.py) | Easy |
 | 0202 | Happy Number | [python](./python/0202.happy-number/happy-number.py) | Easy |
 | 0198 | House Robber  | [python](./python/0198.house-robber/house-robber.py) | Easy |
-| 0189 | Rotate Array | [python](./python/0189.rotate-array/rotate-array.py | Easy |
+| 0189 | Rotate Array | [python](./python/0189.rotate-array/rotate-array.py) | Easy |
 | 0176 | Second Highest Salary | [sql](./sql/0176.second-highest-salary/second-highest-salary.sql) | Easy |
 | 0175 | Combine Two Tables | [sql](./sql/0175.combine-two-tables/combine-two-tables.sql) | Easy |
 | 0173 | Binary Search Tree Iterator | [python](./python/0173.binary-search-tree-iterator/binary-search-tree-iterator.py) | Medium |
 | 0172 | Factorial Trailing Zeroes | [python](./python/0172.factorial-trailing-zeroes/factorial-trailing-zeroes.py) | Easy |
 | 0171 | Excel Sheet Column Number | [python](./python/0171.excel-sheet-column-number/excel-sheet-column-number.py) | Easy |
 | 0170 | Two Sum III - Data structure design | [python](./python/0170.two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.py) | Easy |
-| 0169 | Majority Element | [python](./169.majority-element/majority-element.py) | Easy |
+| 0169 | Majority Element | [python](./python/0169.majority-element/majority-element.py) | Easy |
 | 0167 | Two Sum II - Input array is sorted | [python](./0167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) | Easy |
 | 0160 | Intersection of Two Linked Lists | [python](./0160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 0157 | Read N Characters Given Read4 | [python](./python/0157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
@@ -72,7 +72,7 @@ LeetCode Algorithm
 | 0100 | Same Tree | [python](./python/0100.same-tree/same-tree.py) | Easy | 
 | 0096 | Unique Binary Search Trees | [python](./python/0096.unique-binary-search-trees/unique-binary-search-trees.py) | Medium |
 | 0095 | Unique Binary Search Trees II | [python](./python/0095.unique-binary-search-trees-ii/unique-binary-search-trees-ii.py) | Medium |
-| 0092 | Reverse Linked List II | [python](./python/092.reverse-linked-list-ii/reverse-linked-list-ii.py) | Medium |
+| 0092 | Reverse Linked List II | [python](./python/0092.reverse-linked-list-ii/reverse-linked-list-ii.py) | Medium |
 | 0070 | Climbing Stairs | [python](./python/0070.climbing-stairs/climbing-stairs.py) | Easy |
 | 0066 | Plus One | [python](./python/0066.plus-one/plus-one.py) | Easy |
 | 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
