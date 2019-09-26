@@ -77,6 +77,7 @@ LeetCode Algorithm
 | 0066 | Plus One | [python](./python/0066.plus-one/plus-one.py) | Easy |
 | 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
+| 0051 | N-Queens | [Java](./java/src/n_queens/Solution.java) | Medium |
 | 0015 | 3Sum | [python](./python/0015.3sum/3sum.py) | Medium |
 | 0008 | String to Integer (atoi) | [python](./python/0008.string-to-integer-atoi/string-to-integer-atoi.py) | Medium |
 | 0007 | Reverse Integer | [python](./python/0007.reverse-integer/reverse-integer.py)  [java](./java/reverse_integer/Solution.java)| Easy |
