@@ -78,6 +78,7 @@ LeetCode Algorithm
 | 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
 | 0015 | 3Sum | [python](./python/0015.3sum/3sum.py) | Medium |
+| 0008 | String to Integer (atoi) | [python](./python/0008.string-to-integer-atoi/string-to-integer-atoi.py) | Medium |
 | 0007 | Reverse Integer | [python](./python/0007.reverse-integer/reverse-integer.py)  [java](./java/reverse_integer/Solution.java)| Easy |
 | 0005 | Longest Palindromic Substring | [python](./python/0005.longest-palindromic-substring/longest-palindromic-substring.py) | Medium | 
 | 0004 | Median of Two Sorted Arrays | [python](./python/0004.median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) | Hard | 
