@@ -78,6 +78,7 @@ LeetCode Algorithm
 | 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
 | 0051 | N-Queens | [Java](./java/src/n_queens/Solution.java) | Medium |
+| 0036 | Valid Sudoku | [python](./python/0036.valid-sudoku/valid-sudoku.py) | Medium |
 | 0034 | Find First and Last Position of Element in Sorted Array | [python](.python/0034.find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) | Medium |
 | 0033 | Search in Rotated Sorted Array | [python](./python/0033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) | Medium |
 | 0022 | Generate Parentheses | [python](.python/0022.generate-parentheses/generate-parentheses.py) | Medium |
