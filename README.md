@@ -78,6 +78,7 @@ LeetCode Algorithm
 | 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
 | 0051 | N-Queens | [Java](./java/src/n_queens/Solution.java) | Medium |
+| 0033 | Search in Rotated Sorted Array | [python](./python/0033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) | Medium |
 | 0022 | Generate Parentheses | [python](.python/0022.generate-parentheses/generate-parentheses.py) | Medium |
 | 0019 | Remove Nth Node From End of List | [python](./python/0019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | Medium | 
 | 0017 | Letter Combinations of a Phone Number | [python](./python/0017.letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) | Medium |
