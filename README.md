@@ -77,6 +77,7 @@ LeetCode Algorithm
 | 0066 | Plus One | [python](./python/0066.plus-one/plus-one.py) | Easy |
 | 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
+| 0056 | Merge Intervals | [python](./python/0056.merge-intervals/merge-intervals.py) | Medium |
 | 0055 | Jump Game | [python](./python/0055.jump-game/jump-game.py) | Medium |
 | 0054 | Spiral Matrix | [python](/python/0054.spiral-matrix/spiral-matrix.py) | Medium |
 | 0051 | N-Queens | [Java](./java/src/n_queens/Solution.java) | Medium |
