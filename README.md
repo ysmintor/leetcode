@@ -78,6 +78,7 @@ LeetCode Algorithm
 | 0064 | Minimum Path Sum | [python](./python/0064.minimum-path-sum/minimum-path-sum.py) | Medium |
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
 | 0051 | N-Queens | [Java](./java/src/n_queens/Solution.java) | Medium |
+| 0049 | Group Anagrams | [python](./python/group-anagrams/group-anagrams.py) | Medium |
 | 0048 | Rotate Image | [python](./python/0048.rotate-image/rotate-image.py) | Medium |
 | 0046 | Permutations | [python](./python/0046.permutations/permutations.py) | Medium |
 | 0036 | Valid Sudoku | [python](./python/0036.valid-sudoku/valid-sudoku.py) | Medium |
