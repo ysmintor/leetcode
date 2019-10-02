@@ -73,6 +73,7 @@ LeetCode Algorithm
 | 0096 | Unique Binary Search Trees | [python](./python/0096.unique-binary-search-trees/unique-binary-search-trees.py) | Medium |
 | 0095 | Unique Binary Search Trees II | [python](./python/0095.unique-binary-search-trees-ii/unique-binary-search-trees-ii.py) | Medium |
 | 0092 | Reverse Linked List II | [python](./python/0092.reverse-linked-list-ii/reverse-linked-list-ii.py) | Medium |
+| 0091 | Decode Ways | [python](./python/0091.decode-ways/decode-ways.py) | Medium |
 | 0079 | Word Search | [python](./python/0079.word-search/word-search.py) | Medium |
 | 0078 | Subsets | [python](./python/0078.subsets/subsets.py) | Medium |
 | 0075 | Sort Colors | [python](./python/0075.sort-colors/sort-colors.py) | Medium |
