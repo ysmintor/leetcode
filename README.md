@@ -55,6 +55,7 @@ LeetCode Algorithm
 | 0120 | Triangle | [python](./python/0120.triangle/triangle.py) | Medium |
 | 0119 | Pascal's Triangle II | [python](./python/0119.pascals-triangle-ii/pascals-triangle-ii.py) | Easy |
 | 0118 | Pascal's Triangle | [python](./python/0118.pascals-triangle/pascals-triangle.py) | Easy |
+| 0116 | Populating Next Right Pointers in Each Node | [python](./python/0116.populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.py) | Medium |
 | 0114 | Flatten Binary Tree to Linked List | [python](./python/0114.flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.py) | Medium |
 | 0113 | Path Sum II | [python](./python/0113.path-sum-ii/path-sum-ii.py) | Medium |
 | 0112 | Path Sum | [python](./python/0112.path-sum/path-sum.py) | Easy |
