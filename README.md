@@ -70,6 +70,7 @@ LeetCode Algorithm
 | 0102 | Binary Tree Level Order Traversal | [python](./python/0102.binary-tree-level-order-traversal/binary-tree-level-order-traversal.py) | Medium | 
 | 0101 | Symmetric Tree | [python](./python/0101.symmetric-tree/symmetric-tree.py) | Easy  | 
 | 0100 | Same Tree | [python](./python/0100.same-tree/same-tree.py) | Easy | 
+| 0098 | Validate Binary Search Tree | [python](./python/0098.validate-binary-search-tree/validate-binary-search-tree.py) | Medium |
 | 0096 | Unique Binary Search Trees | [python](./python/0096.unique-binary-search-trees/unique-binary-search-trees.py) | Medium |
 | 0095 | Unique Binary Search Trees II | [python](./python/0095.unique-binary-search-trees-ii/unique-binary-search-trees-ii.py) | Medium |
 | 0092 | Reverse Linked List II | [python](./python/0092.reverse-linked-list-ii/reverse-linked-list-ii.py) | Medium |
@@ -87,13 +88,13 @@ LeetCode Algorithm
 | 0054 | Spiral Matrix | [python](/python/0054.spiral-matrix/spiral-matrix.py) | Medium |
 | 0051 | N-Queens | [Java](./java/src/n_queens/Solution.java) | Medium |
 | 0050 | Pow(x, n) | [python](./python/0050.powx-n/powx-n.py) | Medium |
-| 0049 | Group Anagrams | [python](./python/group-anagrams/group-anagrams.py) | Medium |
+| 0049 | Group Anagrams | [python](./python/0049.group-anagrams/group-anagrams.py) | Medium |
 | 0048 | Rotate Image | [python](./python/0048.rotate-image/rotate-image.py) | Medium |
 | 0046 | Permutations | [python](./python/0046.permutations/permutations.py) | Medium |
 | 0036 | Valid Sudoku | [python](./python/0036.valid-sudoku/valid-sudoku.py) | Medium |
 | 0034 | Find First and Last Position of Element in Sorted Array | [python](.python/0034.find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) | Medium |
 | 0033 | Search in Rotated Sorted Array | [python](./python/0033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) | Medium |
-| 0022 | Generate Parentheses | [python](.python/0022.generate-parentheses/generate-parentheses.py) | Medium |
+| 0022 | Generate Parentheses | [python](./python/0022.generate-parentheses/generate-parentheses.py) | Medium |
 | 0019 | Remove Nth Node From End of List | [python](./python/0019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | Medium | 
 | 0017 | Letter Combinations of a Phone Number | [python](./python/0017.letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) | Medium |
 | 0015 | 3Sum | [python](./python/0015.3sum/3sum.py) | Medium |
