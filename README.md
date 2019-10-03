@@ -9,7 +9,7 @@ LeetCode Algorithm
 | 0583 | Delete Operation for Two Strings | [python](./python/0583.delete-operation-for-two-strings/delete-operation-for-two-strings.py) | Medium | 
 | 0551 | Student Attendance Record I | [python](./python/0551.student-attendance-record-i/student-attendance-record-i.py) | Easy |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
-| 0257 | Binary Tree Paths | [python](./pthon/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
+| 0257 | Binary Tree Paths | [python](./python/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
 | 0245 | Shortest Word Distance III | [python](./python/0245.shortest-word-distance-iii/shortest-word-distance-iii.py) | Medium |
 | 0244 | Shortest Word Distance II | [python](./python/0244.shortest-word-distance-ii/shortest-word-distance-ii.py) | Medium | 
 | 0243 | Shortest Word Distance I | [python](./python/0243.shortest-word-distance/shortest-word-distance.py) | Easy |
@@ -19,7 +19,7 @@ LeetCode Algorithm
 | 0235 | Lowest Common Ancestor of a Binary Search Tree | [python](./python/0235.lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) | Easy |
 | 0234 | Palindrome Linked List | [python](./python/0234.palindrome-linked-list/palindrome-linked-list.py) | Easy |
 | 0231 | Power of Two | [python](./python/0231.power-of-two/power-of-two.py) | Easy |
-| 0230 | Kth Smallest Element in a BST | [python](./python/230.kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.py) | Medium |
+| 0230 | Kth Smallest Element in a BST | [python](./python/0230.kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.py) | Medium |
 | 0226 | Invert Binary Tree | [python](./python/0226.invert-binary-tree/invert-binary-tree.py) | Easy |
 | 0225 | Implement Stack using Queues | [python](./python/0225.implement-stack-using-queues/implement-stack-using-queues.py) | Easy |
 | 0219 | Contains Duplicate II| [python](./python/0219.contains-duplicate-ii/contains-duplicate-ii.py) | Easy |
@@ -39,8 +39,8 @@ LeetCode Algorithm
 | 0171 | Excel Sheet Column Number | [python](./python/0171.excel-sheet-column-number/excel-sheet-column-number.py) | Easy |
 | 0170 | Two Sum III - Data structure design | [python](./python/0170.two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.py) | Easy |
 | 0169 | Majority Element | [python](./python/0169.majority-element/majority-element.py) | Easy |
-| 0167 | Two Sum II - Input array is sorted | [python](./0167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) | Easy |
-| 0160 | Intersection of Two Linked Lists | [python](./0160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
+| 0167 | Two Sum II - Input array is sorted | [python](./python/0167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) | Easy |
+| 0160 | Intersection of Two Linked Lists | [python](./python/0160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 0157 | Read N Characters Given Read4 | [python](./python/0157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
 | 0155 | Min Stack | [python](./python/0155.min-stack/min-stack.py) | Easy |
 | 0146 | LRU Cache | [python](./python/0146.lru-cache/lru-cache.py) | Medium |
@@ -50,11 +50,11 @@ LeetCode Algorithm
 | 0138 | Copy List with Random Pointer | [python](./python/0138.copy-list-with-random-pointer/copy-list-with-random-pointer.py) | Medium |
 | 0136 | Single Number | [python](./python/0136.single-number/single-number.py) | Easy |
 | 0125 | Valid Palindrome | [python](./python/0125.valid-palindrome/valid-palindrome.py) | Easy |
-| 0122 | Best Time to Buy and Sell Stock II | [python](./python/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) | Easy |
+| 0122 | Best Time to Buy and Sell Stock II | [python](./python/0122.best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) | Easy |
 | 0121 | Best Time to Buy and Sell Stock | [python](./python/0121.best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | Easy |
-| 0120 | Triangle | [python](./python/0120/triangle.py) | Medium |
+| 0120 | Triangle | [python](./python/0120.triangle/triangle.py) | Medium |
 | 0119 | Pascal's Triangle II | [python](./python/0119.pascals-triangle-ii/pascals-triangle-ii.py) | Easy |
-| 0118 | Pascal's Triangle | [python](./python/0118.pascals-triangle/pascals-triangle-ii.py) | Easy |
+| 0118 | Pascal's Triangle | [python](./python/0118.pascals-triangle/pascals-triangle.py) | Easy |
 | 0114 | Flatten Binary Tree to Linked List | [python](./python/0114.flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.py) | Medium |
 | 0113 | Path Sum II | [python](./python/0113.path-sum-ii/path-sum-ii.py) | Medium |
 | 0112 | Path Sum | [python](./python/0112.path-sum/path-sum.py) | Easy |
@@ -92,7 +92,7 @@ LeetCode Algorithm
 | 0048 | Rotate Image | [python](./python/0048.rotate-image/rotate-image.py) | Medium |
 | 0046 | Permutations | [python](./python/0046.permutations/permutations.py) | Medium |
 | 0036 | Valid Sudoku | [python](./python/0036.valid-sudoku/valid-sudoku.py) | Medium |
-| 0034 | Find First and Last Position of Element in Sorted Array | [python](.python/0034.find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) | Medium |
+| 0034 | Find First and Last Position of Element in Sorted Array | [python](./python/0034.find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) | Medium |
 | 0033 | Search in Rotated Sorted Array | [python](./python/0033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) | Medium |
 | 0022 | Generate Parentheses | [python](./python/0022.generate-parentheses/generate-parentheses.py) | Medium |
 | 0019 | Remove Nth Node From End of List | [python](./python/0019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | Medium | 
