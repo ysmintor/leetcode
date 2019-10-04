@@ -49,6 +49,7 @@ LeetCode Algorithm
 | 0139 | Word Break | [python](./python/0139.word-break/word-break.py) | Medium |
 | 0138 | Copy List with Random Pointer | [python](./python/0138.copy-list-with-random-pointer/copy-list-with-random-pointer.py) | Medium |
 | 0136 | Single Number | [python](./python/0136.single-number/single-number.py) | Easy |
+| 0131 | Palindrome Partitioning | [python](./python/0131.palindrome-partitioning/palindrome-partitioning.py) | Medium |
 | 0130 | Surrounded Regions | [python](./python/0130.surrounded-regions/surrounded-regions.py) | Medium |
 | 0127 | Word Ladder | [python](./python/0127.word-ladder/word-ladder.py ) | Medium |
 | 0125 | Valid Palindrome | [python](./python/0125.valid-palindrome/valid-palindrome.py) | Easy |
