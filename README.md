@@ -43,6 +43,7 @@ LeetCode Algorithm
 | 0160 | Intersection of Two Linked Lists | [python](./python/0160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 0157 | Read N Characters Given Read4 | [python](./python/0157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
 | 0155 | Min Stack | [python](./python/0155.min-stack/min-stack.py) | Easy |
+| 0148 | Sort List | [python](./python/0148.sort-list/sort-list.py) | Medium |
 | 0146 | LRU Cache | [python](./python/0146.lru-cache/lru-cache.py) | Medium |
 | 0142 | Linked List Cycle II | [python](./python/0142.linked-list-cycle-ii/linked-list-cycle-ii.py) | Medium |
 | 0141 | Linked List Cycle | [python](./python/0141.linked-list-cycle/linked-list-cycle.py) | Easy |
