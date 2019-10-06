@@ -40,6 +40,7 @@ LeetCode Algorithm
 | 0170 | Two Sum III - Data structure design | [python](./python/0170.two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.py) | Easy |
 | 0169 | Majority Element | [python](./python/0169.majority-element/majority-element.py) | Easy |
 | 0167 | Two Sum II - Input array is sorted | [python](./python/0167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) | Easy |
+| 0163 | Missing Ranges | [python](./python/0163.missing-ranges/missing-ranges.py) | Medium |
 | 0161 | Find Peak Element | [python](./python/0161.find-peak-element/find-peak-element.py) | Medium |
 | 0160 | Intersection of Two Linked Lists | [python](./python/0160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 0157 | Read N Characters Given Read4 | [python](./python/0157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
