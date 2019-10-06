@@ -43,6 +43,7 @@ LeetCode Algorithm
 | 0160 | Intersection of Two Linked Lists | [python](./python/0160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | Easy |
 | 0157 | Read N Characters Given Read4 | [python](./python/0157.read-n-characters-given-read4/read-n-characters-given-read4.py) | Easy |
 | 0155 | Min Stack | [python](./python/0155.min-stack/min-stack.py) | Easy |
+| 0152 | Maximum Product Subarray | [python](./python/0152.maximum-product-subarray/maximum-product-subarray.py) | Medium |
 | 0150 | Evaluate Reverse Polish Notation | [python](./python/0150.evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) | Medium |
 | 0148 | Sort List | [python](./python/0148.sort-list/sort-list.py) | Medium |
 | 0146 | LRU Cache | [python](./python/0146.lru-cache/lru-cache.py) | Medium |
