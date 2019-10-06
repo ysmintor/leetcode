@@ -93,7 +93,8 @@ LeetCode Algorithm
 | 0062 | Unique Paths | [python](./python/0062.unique-paths/unique-paths.py) | Medium |
 | 0056 | Merge Intervals | [python](./python/0056.merge-intervals/merge-intervals.py) | Medium |
 | 0055 | Jump Game | [python](./python/0055.jump-game/jump-game.py) | Medium |
-| 0054 | Spiral Matrix | [python](/python/0054.spiral-matrix/spiral-matrix.py) | Medium |
+| 0054 | Spiral Matrix | [python](./python/0054.spiral-matrix/spiral-matrix.py) | Medium |
+| 0053 | Maximum Subarray | [python](./python/0053.maximum-subarray/maximum-subarray.py) [Java](./java/src/maximum_subarray/Solution.java)| Easy |
 | 0051 | N-Queens | [Java](./java/src/n_queens/Solution.java) | Medium |
 | 0050 | Pow(x, n) | [python](./python/0050.powx-n/powx-n.py) | Medium |
 | 0049 | Group Anagrams | [python](./python/0049.group-anagrams/group-anagrams.py) | Medium |
@@ -109,7 +110,7 @@ LeetCode Algorithm
 | 0012 | Integer to Roman | [python](./python/0012.integer-to-roman/integer-to-roman.py) | Medium |
 | 0011 | Container With Most Water | [python](./python/0011.container-with-most-water/container-with-most-water.py) | Medium |
 | 0008 | String to Integer (atoi) | [python](./python/0008.string-to-integer-atoi/string-to-integer-atoi.py) | Medium |
-| 0007 | Reverse Integer | [python](./python/0007.reverse-integer/reverse-integer.py)  [java](./java/reverse_integer/Solution.java)| Easy |
+| 0007 | Reverse Integer | [python](./python/0007.reverse-integer/reverse-integer.py)  [java](./java/src/reverse_integer/Solution.java)| Easy |
 | 0005 | Longest Palindromic Substring | [python](./python/0005.longest-palindromic-substring/longest-palindromic-substring.py) | Medium | 
 | 0004 | Median of Two Sorted Arrays | [python](./python/0004.median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) | Hard | 
 | 0003 | Longest Substring Without Repeating Characters | [python](./python/0003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) | Medium |
