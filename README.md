@@ -32,6 +32,7 @@ LeetCode Algorithm
 | 0202 | Happy Number | [python](./python/0202.happy-number/happy-number.py) | Easy |
 | 0198 | House Robber  | [python](./python/0198.house-robber/house-robber.py) | Easy |
 | 0189 | Rotate Array | [python](./python/0189.rotate-array/rotate-array.py) | Easy |
+| 0179 | Largest Number | [python](./python/0179.largest-number/largest-number.py) | Medium |
 | 0176 | Second Highest Salary | [sql](./sql/0176.second-highest-salary/second-highest-salary.sql) | Easy |
 | 0175 | Combine Two Tables | [sql](./sql/0175.combine-two-tables/combine-two-tables.sql) | Easy |
 | 0173 | Binary Search Tree Iterator | [python](./python/0173.binary-search-tree-iterator/binary-search-tree-iterator.py) | Medium |
