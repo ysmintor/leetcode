@@ -30,6 +30,7 @@ LeetCode Algorithm
 | 0204 | Count Primes | [python](./python/0204.count-primes/count-primes.py) | Easy |
 | 0203 | Remove Linked List Elements | [python](./python/0203.remove-linked-list-elements/remove-linked-list-elements.py) | Easy |
 | 0202 | Happy Number | [python](./python/0202.happy-number/happy-number.py) | Easy |
+| 0200 | Number of Islands | [python](./python/0200.number-of-islands/number-of-islands.py) | Medium |
 | 0198 | House Robber  | [python](./python/0198.house-robber/house-robber.py) | Easy |
 | 0189 | Rotate Array | [python](./python/0189.rotate-array/rotate-array.py) | Easy |
 | 0179 | Largest Number | [python](./python/0179.largest-number/largest-number.py) | Medium |
