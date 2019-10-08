@@ -26,6 +26,7 @@ LeetCode Algorithm
 | 0217 | Contains Duplicate | [python](./python/0217.contains-duplicate/contains-duplicate.py) | Easy |
 | 0213 | House Robber II | [python](./python/0213.house-robber-ii/house-robber-ii.py) | Medium |
 | 0210 | Course Schedule II | [python](./python/0210.course-schedule-ii/course-schedule-ii.py) | Medium |
+| 0208 | Implement Trie (Prefix Tree) | [python](./python/0208.implement-trie-prefix-tree/implement-trie-prefix-tree.py) | Medium |
 | 0207 | Course Schedule | [python](./python/0207.course-schedule/course-schedule.py) | Medium |
 | 0206 | Reverse Linked List| [python](./python/0206.reverse-linked-list/reverse-linked-list.py) | Easy |
 | 0205 | Isomorphic Strings | [python](./python/0205.isomorphic-strings/isomorphic-strings.py) | Easy |
