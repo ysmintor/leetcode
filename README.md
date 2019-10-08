@@ -9,6 +9,7 @@ LeetCode Algorithm
 | 0583 | Delete Operation for Two Strings | [python](./python/0583.delete-operation-for-two-strings/delete-operation-for-two-strings.py) | Medium | 
 | 0551 | Student Attendance Record I | [python](./python/0551.student-attendance-record-i/student-attendance-record-i.py) | Easy |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
+| 0347 | Top K Frequent Elements | [python](./python/0347.top-k-frequent-elements/top-k-frequent-elements.py) [java](./java/src/top_k_frequent_elements/Solution.java) | Medium |
 | 0257 | Binary Tree Paths | [python](./python/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
 | 0245 | Shortest Word Distance III | [python](./python/0245.shortest-word-distance-iii/shortest-word-distance-iii.py) | Medium |
 | 0244 | Shortest Word Distance II | [python](./python/0244.shortest-word-distance-ii/shortest-word-distance-ii.py) | Medium | 
