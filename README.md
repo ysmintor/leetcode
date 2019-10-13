@@ -12,6 +12,7 @@ LeetCode Algorithm
 | 0551 | Student Attendance Record I | [python](./python/0551.student-attendance-record-i/student-attendance-record-i.py) | Easy |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
 | 0347 | Top K Frequent Elements | [python](./python/0347.top-k-frequent-elements/top-k-frequent-elements.py) [java](./java/src/top_k_frequent_elements/Solution.java) | Medium |
+| 0300 | Longest Increasing Subsequence | [python](./python/0300.longest-increasing-subsequence/longest-increasing-subsequence.py) | Medium | 
 | 0289 | Game of Life | [python](./python/0289.game-of-life/game-of-life.py) | Medium |
 | 0287 | Find the Duplicate Number | [python](./python/0287.) | Medium |
 | 0279 | Perfect Squares | [python](./python/0279.perfect-squares/perfect-squares.py) | Medium |
