@@ -13,6 +13,7 @@ LeetCode Algorithm
 | 0454 | 4Sum II | [python](./python/0454.4sum-ii/4sum-ii.py) | Medium |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
 | 0347 | Top K Frequent Elements | [python](./python/0347.top-k-frequent-elements/top-k-frequent-elements.py) [java](./java/src/top_k_frequent_elements/Solution.java) | Medium |
+| 0334 | Increasing Triplet Subsequence | [python](./python/0334.increasing-triplet-subsequence/increasing-triplet-subsequence.py) | Medium |
 | 0328 | Odd Even Linked List | [python](./python/0328.odd-even-linked-list/odd-even-linked-list.py) | Medium |
 | 0324 | Wiggle Sort II | [python](./python/0324.wiggle-sort-ii/wiggle-sort-ii.py) | Medium |
 | 0322 | Coin Change | [python](./python/0322.coin-change/coin-change.py) | Medium |
