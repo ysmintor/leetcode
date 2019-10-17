@@ -7,19 +7,20 @@ LeetCode Algorithm
 | --- | --- | --- | --- |
 | 0764 | Min Cost Climbing Stairs | [python](./python/0764.min-cost-climbing-stairs/min-cost-climbing-stairs.py) | Easy |
 | 0692 | Top K Frequent Words | [python](./python/0692.top-k-frequent-words/top-k-frequent-words.py) | Medium |
-| 0643 | Maximum Average Subarray I | [python](./python/0643.maximum-average-subarray-i、maximum-average-subarray-i.py) | Medium |
+| 0643 | Maximum Average Subarray I | [python](./python/0643.maximum-average-subarray-i/maximum-average-subarray-i.py) | Medium |
 | 0583 | Delete Operation for Two Strings | [python](./python/0583.delete-operation-for-two-strings/delete-operation-for-two-strings.py) | Medium | 
 | 0551 | Student Attendance Record I | [python](./python/0551.student-attendance-record-i/student-attendance-record-i.py) | Easy |
 | 0454 | 4Sum II | [python](./python/0454.4sum-ii/4sum-ii.py) | Medium |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
 | 0347 | Top K Frequent Elements | [python](./python/0347.top-k-frequent-elements/top-k-frequent-elements.py) [java](./java/src/top_k_frequent_elements/Solution.java) | Medium |
+| 0341 | Flatten Nested List Iterator | [python](./python/0341.flatten-nested-list-iterator/flatten-nested-list-iterator.py) | Medium | 
 | 0334 | Increasing Triplet Subsequence | [python](./python/0334.increasing-triplet-subsequence/increasing-triplet-subsequence.py) | Medium |
 | 0328 | Odd Even Linked List | [python](./python/0328.odd-even-linked-list/odd-even-linked-list.py) | Medium |
 | 0324 | Wiggle Sort II | [python](./python/0324.wiggle-sort-ii/wiggle-sort-ii.py) | Medium |
 | 0322 | Coin Change | [python](./python/0322.coin-change/coin-change.py) | Medium |
 | 0300 | Longest Increasing Subsequence | [python](./python/0300.longest-increasing-subsequence/longest-increasing-subsequence.py) | Medium | 
 | 0289 | Game of Life | [python](./python/0289.game-of-life/game-of-life.py) | Medium |
-| 0287 | Find the Duplicate Number | [python](./python/0287.) | Medium |
+| 0287 | Find the Duplicate Number | [python](./python/0287.find-the-duplicate-number/find-the-duplicate-number.py) | Medium |
 | 0279 | Perfect Squares | [python](./python/0279.perfect-squares/perfect-squares.py) | Medium |
 | 0268 | Missing Number | [python](./python/0268.missing-number/missing-number.py) | Easy | 
 | 0257 | Binary Tree Paths | [python](./python/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
