@@ -12,6 +12,7 @@ LeetCode Algorithm
 | 0551 | Student Attendance Record I | [python](./python/0551.student-attendance-record-i/student-attendance-record-i.py) | Easy |
 | 0454 | 4Sum II | [python](./python/0454.4sum-ii/4sum-ii.py) | Medium |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
+| 0380 | Insert Delete GetRandom O(1) | [python](./python/0380.insert-delete-getrandom-o1/insert-delete-getrandom-o1.py) | Medium | 
 | 0347 | Top K Frequent Elements | [python](./python/0347.top-k-frequent-elements/top-k-frequent-elements.py) [java](./java/src/top_k_frequent_elements/Solution.java) | Medium |
 | 0341 | Flatten Nested List Iterator | [python](./python/0341.flatten-nested-list-iterator/flatten-nested-list-iterator.py) | Medium | 
 | 0334 | Increasing Triplet Subsequence | [python](./python/0334.increasing-triplet-subsequence/increasing-triplet-subsequence.py) | Medium |
