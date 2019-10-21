@@ -28,6 +28,7 @@ LeetCode Algorithm
 | 0279 | Perfect Squares | [python](./python/0279.perfect-squares/perfect-squares.py) | Medium |
 | 0268 | Missing Number | [python](./python/0268.missing-number/missing-number.py) | Easy | 
 | 0257 | Binary Tree Paths | [python](./python/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
+| 0253 | Meeting Rooms II | [python](./python/0253.meeting-rooms-ii/meeting-rooms-ii.py) | Medium |
 | 0251 | Flatten 2D Vector | [python](./python/0251.flatten-2d-vector/flatten-2d-vector.py) | Medium |
 | 0245 | Shortest Word Distance III | [python](./python/0245.shortest-word-distance-iii/shortest-word-distance-iii.py) | Medium |
 | 0244 | Shortest Word Distance II | [python](./python/0244.shortest-word-distance-ii/shortest-word-distance-ii.py) | Medium | 
