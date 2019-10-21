@@ -41,6 +41,7 @@ LeetCode Algorithm
 | 0234 | Palindrome Linked List | [python](./python/0234.palindrome-linked-list/palindrome-linked-list.py) | Easy |
 | 0231 | Power of Two | [python](./python/0231.power-of-two/power-of-two.py) | Easy |
 | 0230 | Kth Smallest Element in a BST | [python](./python/0230.kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.py) | Medium |
+| 0227 | Basic Calculator II | [python](./python/0227.basic-calculator-ii/basic-calculator-ii.py) | Medium |
 | 0226 | Invert Binary Tree | [python](./python/0226.invert-binary-tree/invert-binary-tree.py) | Easy |
 | 0225 | Implement Stack using Queues | [python](./python/0225.implement-stack-using-queues/implement-stack-using-queues.py) | Easy |
 | 0219 | Contains Duplicate II| [python](./python/0219.contains-duplicate-ii/contains-duplicate-ii.py) | Easy |
