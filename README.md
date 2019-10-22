@@ -17,6 +17,7 @@ LeetCode Algorithm
 | 0380 | Insert Delete GetRandom O(1) | [python](./python/0380.insert-delete-getrandom-o1/insert-delete-getrandom-o1.py) | Medium | 
 | 0378 | Kth Smallest Element in a Sorted Matrix | [python](./python/0378.kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.py) | Medium |
 | 0347 | Top K Frequent Elements | [python](./python/0347.top-k-frequent-elements/top-k-frequent-elements.py) [java](./java/src/top_k_frequent_elements/Solution.java) | Medium |
+| 0344 | Reverse String | [python](./python/0344.reverse-string/reverse-string.py) | Easy | 
 | 0341 | Flatten Nested List Iterator | [python](./python/0341.flatten-nested-list-iterator/flatten-nested-list-iterator.py) | Medium | 
 | 0334 | Increasing Triplet Subsequence | [python](./python/0334.increasing-triplet-subsequence/increasing-triplet-subsequence.py) | Medium |
 | 0328 | Odd Even Linked List | [python](./python/0328.odd-even-linked-list/odd-even-linked-list.py) | Medium |
