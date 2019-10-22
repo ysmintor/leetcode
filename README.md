@@ -27,6 +27,7 @@ LeetCode Algorithm
 | 0289 | Game of Life | [python](./python/0289.game-of-life/game-of-life.py) | Medium |
 | 0287 | Find the Duplicate Number | [python](./python/0287.find-the-duplicate-number/find-the-duplicate-number.py) | Medium |
 | 0279 | Perfect Squares | [python](./python/0279.perfect-squares/perfect-squares.py) | Medium |
+| 0277 | Find the Celebrity | [python](./python/0277.find-the-celebrity/find-the-celebrity.py) | Medium |
 | 0268 | Missing Number | [python](./python/0268.missing-number/missing-number.py) | Easy | 
 | 0257 | Binary Tree Paths | [python](./python/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
 | 0253 | Meeting Rooms II | [python](./python/0253.meeting-rooms-ii/meeting-rooms-ii.py) | Medium |
