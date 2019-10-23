@@ -11,6 +11,7 @@ LeetCode Algorithm
 | 0583 | Delete Operation for Two Strings | [python](./python/0583.delete-operation-for-two-strings/delete-operation-for-two-strings.py) | Medium | 
 | 0551 | Student Attendance Record I | [python](./python/0551.student-attendance-record-i/student-attendance-record-i.py) | Easy |
 | 0454 | 4Sum II | [python](./python/0454.4sum-ii/4sum-ii.py) | Medium |
+| 0412 | Fizz Buzz | [python](./python/0412.fizz-buzz/fizz-buzz.py) | Easy |
 | 0395 | Longest Substring with At Least K Repeating Characters | [python](./python/0395.longest-substring-with-at-least-k-repeating-characters/longest-substring-with-at-least-k-repeating-characters.py) | Medium |
 | 0392 | Is Subsequence | [python](./python/0392.is-subsequence/is-subsequence.py) | Easy |
 | 0384 | Shuffle an Array | [python](./python/0384.shuffle-an-array/shuffle-an-array.py) | Medium | 
