@@ -27,6 +27,7 @@ LeetCode Algorithm
 | 0300 | Longest Increasing Subsequence | [python](./python/0300.longest-increasing-subsequence/longest-increasing-subsequence.py) | Medium | 
 | 0289 | Game of Life | [python](./python/0289.game-of-life/game-of-life.py) | Medium |
 | 0287 | Find the Duplicate Number | [python](./python/0287.find-the-duplicate-number/find-the-duplicate-number.py) | Medium |
+| 0283 | Move Zeroes | [python](./python/0283.move-zeroes/move-zeroes.py) | Easy |
 | 0279 | Perfect Squares | [python](./python/0279.perfect-squares/perfect-squares.py) | Medium |
 | 0277 | Find the Celebrity | [python](./python/0277.find-the-celebrity/find-the-celebrity.py) | Medium |
 | 0268 | Missing Number | [python](./python/0268.missing-number/missing-number.py) | Easy | 
@@ -140,7 +141,7 @@ LeetCode Algorithm
 | 0033 | Search in Rotated Sorted Array | [python](./python/0033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) | Medium |
 | 0022 | Generate Parentheses | [python](./python/0022.generate-parentheses/generate-parentheses.py) | Medium |
 | 0019 | Remove Nth Node From End of List | [python](./python/0019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | Medium | 
-| 0018 | 4Sum | [python](./python/0018.4sum/4sum.py) | MediuM 
+| 0018 | 4Sum | [python](./python/0018.4sum/4sum.py) | Medium |
 | 0017 | Letter Combinations of a Phone Number | [python](./python/0017.letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) | Medium |
 | 0015 | 3Sum | [python](./python/0015.3sum/3sum.py) | Medium |
 | 0012 | Integer to Roman | [python](./python/0012.integer-to-roman/integer-to-roman.py) | Medium |
