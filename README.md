@@ -17,6 +17,7 @@ LeetCode Algorithm
 | 0384 | Shuffle an Array | [python](./python/0384.shuffle-an-array/shuffle-an-array.py) | Medium | 
 | 0380 | Insert Delete GetRandom O(1) | [python](./python/0380.insert-delete-getrandom-o1/insert-delete-getrandom-o1.py) | Medium | 
 | 0378 | Kth Smallest Element in a Sorted Matrix | [python](./python/0378.kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.py) | Medium |
+| 0350 | Intersection of Two Arrays II | [python](./python/0350.intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.py) | Easy |
 | 0347 | Top K Frequent Elements | [python](./python/0347.top-k-frequent-elements/top-k-frequent-elements.py) [java](./java/src/top_k_frequent_elements/Solution.java) | Medium |
 | 0344 | Reverse String | [python](./python/0344.reverse-string/reverse-string.py) | Easy | 
 | 0341 | Flatten Nested List Iterator | [python](./python/0341.flatten-nested-list-iterator/flatten-nested-list-iterator.py) | Medium | 
