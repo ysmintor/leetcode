@@ -5,6 +5,7 @@ LeetCode Algorithm
 
 | # | Name | Solution | Difficulty  |
 | --- | --- | --- | --- |
+| 0771 | Jewels and Stones | [python](./python/0771.jewels-and-stones/jewels-and-stones.py) | Easy | 
 | 0764 | Min Cost Climbing Stairs | [python](./python/0764.min-cost-climbing-stairs/min-cost-climbing-stairs.py) | Easy |
 | 0692 | Top K Frequent Words | [python](./python/0692.top-k-frequent-words/top-k-frequent-words.py) | Medium |
 | 0643 | Maximum Average Subarray I | [python](./python/0643.maximum-average-subarray-i/maximum-average-subarray-i.py) | Medium |
