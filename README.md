@@ -27,6 +27,7 @@ LeetCode Algorithm
 | 0324 | Wiggle Sort II | [python](./python/0324.wiggle-sort-ii/wiggle-sort-ii.py) | Medium |
 | 0322 | Coin Change | [python](./python/0322.coin-change/coin-change.py) | Medium |
 | 0300 | Longest Increasing Subsequence | [python](./python/0300.longest-increasing-subsequence/longest-increasing-subsequence.py) | Medium | 
+| 0292 | Nim Game | [python](./python/0292.nim-game/nim-game.py) | Easy | 
 | 0289 | Game of Life | [python](./python/0289.game-of-life/game-of-life.py) | Medium |
 | 0287 | Find the Duplicate Number | [python](./python/0287.find-the-duplicate-number/find-the-duplicate-number.py) | Medium |
 | 0283 | Move Zeroes | [python](./python/0283.move-zeroes/move-zeroes.py) | Easy |
