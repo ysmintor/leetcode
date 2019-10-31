@@ -35,6 +35,7 @@ LeetCode Algorithm
 | 0279 | Perfect Squares | [python](./python/0279.perfect-squares/perfect-squares.py) | Medium |
 | 0277 | Find the Celebrity | [python](./python/0277.find-the-celebrity/find-the-celebrity.py) | Medium |
 | 0268 | Missing Number | [python](./python/0268.missing-number/missing-number.py) | Easy | 
+| 0263 | Ugly Number | [python](./python/0263.ugly-number/ugly-number.py) | Easy | 
 | 0258 | Add Digits | [python](./python/0258.add-digits/add-digits.py) | Easy | 
 | 0257 | Binary Tree Paths | [python](./python/0257.binary-tree-paths/binary-tree-paths.py) | Easy | 
 | 0253 | Meeting Rooms II | [python](./python/0253.meeting-rooms-ii/meeting-rooms-ii.py) | Medium |
